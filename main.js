@@ -175,10 +175,10 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: KAASHMIRIxMOHSIN`))
-            console.log(chalk.magenta(`${themeemoji} TELEGRAM: KASHMIRI_X3 `))
-            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @XD_MOHSIN1 `))
-            console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${owner}`))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: MD HACKER`))
+            console.log(chalk.magenta(`${themeemoji} TELEGRAM: MD HACKER `))
+            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @MD HACKER `))
+            console.log(chalk.magenta(`${themeemoji} WA NUMBER: +923011516947`))
             console.log(chalk.magenta(`${themeemoji} CREDIT: ${wm}\n`))
         }
         if (
